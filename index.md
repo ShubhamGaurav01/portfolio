@@ -1,11 +1,11 @@
 ## Portfolio
-<h1><strong>Hi, I'm <a href="https://vikramkrishna.com">Vikram Krishna</a></strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
+<h1><strong>Hi! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
 
 <div align="left"> 
     <img src="https://komarev.com/ghpvc/?username=Vikram310" alt="Vikram310"> 
 </div>
 
-<h3 align="center"><em>TORTURE the DATA and it will CONFESS everything.💯</em></h3>
+<h3 align="center"><em>I love microbiology💯</em></h3>
 
 <p>This is what I have learned over the past two years working in the field of Data Science. I am a Python loving Data Science and Machine Learning Practitioner and a Life-long learner. I am currently working as Data Analyst at Cotiviti in Health care Domain & a pasionate tech enthusiast who loves to solves problems </p>
 

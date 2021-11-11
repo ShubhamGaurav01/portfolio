@@ -7,10 +7,10 @@
 
 <h3 align="center"><em>I love microbiology💯</em></h3>
 
-<p>This is what I have learned over the past two years working in the field of Data Science. I am a Python loving Data Science and Machine Learning Practitioner and a Life-long learner. I am currently working as Data Analyst at Cotiviti in Health care Domain & a pasionate tech enthusiast who loves to solves problems </p>
+<p>Viral Immunology, in broad sense, is the study of viral infections in context of immune responses to such infections which can cause deleterious effect on the functions of the cells. Viruses are highly adaptable, and have developed ways to avoid detection by specific immune cells. Immune response to a virus follows a cascade of steps and different routes: via specific targeting cytotoxic immune cells, or chemicals such as interferons, or via antibody binding and subsequent complement system activation. Our current understanding of host immune responses to viruses has progressed in recent years, and 'Viral Immunology' as an area has established itself as a subdiscipline of 'Immunology' tackling the immunological context in viral infections.</p>
 
 <hr>
-<h3>🚀 Some things you should know 👇</h3>
+<h3>🚀 Experience</h3>
 <ul>
 <li>👨‍💻 I'm currently a <em>Data Analyst</em> at <strong>Cotiviti</strong>.</li>
 <li>👨‍🔬 I'm working as a <em>Community Data Mentor in SQL</em> for <strong>Data with Danny</strong>.</li>
